@@ -1,4 +1,3 @@
----
 
 # 📊 Présentation du Projet (Slide Deck)
 
